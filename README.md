@@ -217,7 +217,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing my information with yours):
 ```
 # Exercise-02d-Menu-HUD-Levels
-Exercise for MSCH-C220, 15 February 2021
+Exercise for MSCH-C220, 19 February 2021
 
 A simple game exploring HUD elements and changing scenes.
 
@@ -246,6 +246,6 @@ None
 None
 
 ## Created by 
-Jason Francis
+Jalen Slutzky
 
 ```
